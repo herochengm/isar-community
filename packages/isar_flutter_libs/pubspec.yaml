@@ -24,9 +24,3 @@ flutter:
         pluginClass: IsarFlutterLibsPlugin
       ios:
         pluginClass: IsarFlutterLibsPlugin
-      macos:
-        pluginClass: IsarFlutterLibsPlugin
-      linux:
-        pluginClass: IsarFlutterLibsPlugin
-      windows:
-        pluginClass: IsarFlutterLibsPlugin
